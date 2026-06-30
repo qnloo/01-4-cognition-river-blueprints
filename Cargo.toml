@@ -1,0 +1,16 @@
+[workspace]
+members = [
+    "P-01-Three-Layer-Separation-Architecture",
+    "P-02-Standardized-Cognitive-Protocol-Packaging",
+    "P-03-Local-Privacy-Right-Confirmation-and-Synchronization",
+    "P-04-Cascading-Revenue-Auto-Settlement",
+    "P-05-Logic-Continuity-Sincerity-Audit",
+    "P-06-Outcome-Based-Pricing-and-Settlement-System",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+authors = ["千年鹿 QNLOO <contact@qnloo.com>"]
+license = "Apache-2.0"
+description = "《认知之河》六项发明专利官方参考实现 - 仅供学习与合规验证"

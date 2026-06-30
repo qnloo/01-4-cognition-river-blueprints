@@ -1,0 +1,110 @@
+# 专利授权说明书 / Patent Grant Addendum
+
+本文件是对仓库根目录 LICENSE 文件（QNLOO-SPL v1.0）和 LICENSE-APACHE 文件（Apache License 2.0）的补充。三者共同构成完整的授权体系。
+
+This document supplements the LICENSE file (QNLOO-SPL v1.0) and the LICENSE-APACHE file (Apache License 2.0) in the root directory of this repository. The three together constitute a complete authorization system.
+
+若本文件约定与 QNLOO-SPL v1.0 或 Apache License 2.0 存在任何不一致或冲突之处，就专利授权、专利侵权判定及专利相关违约追责与清算事项而言，以本文件约定之条款为最高及最终适用准则。
+
+In the event of any inconsistency or conflict between the terms of this document and the QNLOO-SPL v1.0 or the Apache License 2.0, with respect to patent grants, patent infringement determinations, and patent-related breach recourse and liquidation matters, the terms of this document shall prevail as the supreme and ultimate governing provisions.
+
+## 第一部分：官方专利声明 / Part I: Official Patent Declaration
+
+本部分为千年鹿（QNLOO）体系自有专利资产的官方声明。**第三方在采用本范式时，须完整删除本部分内容，仅保留第二部分模板与第三部分通用条款。** 本部分内容仅供权利人声明其权利范围，亦可供第三方作为撰写自己专利声明的参考范例。
+
+This part constitutes the official declaration of QNLOO's proprietary patent assets. **Third parties adopting this paradigm must delete this entire part and retain only the Part II template and Part III general terms.** This part is solely for the rights holder to declare its scope of rights, and may also serve as a reference example for third parties drafting their own patent declarations.
+
+
+### 受保护专利 / Protected Patents
+
+以下专利均处于国家知识产权局审查阶段，最终保护范围、授权状态以官方公开的授权公告文本为准。
+
+The following patents are under examination by the national intellectual property administration. The final scope of protection and grant status shall be subject to the officially published grant announcement.
+
+| 内部项目编号 / Internal Project No. | 专利名称 / Patent Name |
+| :--- | :--- |
+| P-01 | 一种基于三层分离的多智能体系统运行系统及方法<br>A Three-Layer Separated Multi-Agent System Operating System and Method |
+| P-02 | 一种基于标准化认知协议的人机协作方法及系统<br>A Human-Machine Collaboration Method and System Based on Standardized Cognitive Protocols |
+| P-03 | 一种基于哈希指纹的认知资产本地确权与增量同步系统及方法<br>A Cognitive Asset Local Rights Confirmation and Incremental Synchronization System and Method Based on Hash Fingerprints |
+| P-04 | 一种基于智能合约的认知资产多级收益自动分账系统及方法<br>A Smart Contract-Based Multi-Level Revenue Auto-Settlement System and Method for Cognitive Assets |
+| P-05 | 一种基于逻辑连续性的多智能体交互真诚度审计系统及方法<br>A Logic Continuity-Based Multi-Agent Interaction Sincerity Audit System and Method |
+| P-06 | 一种基于效果验证的动态定价与最小化验证系统及方法<br>An Outcome-Verified Dynamic Pricing and Minimal Verification System and Method |
+
+本部分版权归厦门千年鹿文化科技有限公司 (Xiamen QNLOO Culture & Technology Co., Ltd.) 所有。
+
+The copyright of this part is owned by Xiamen QNLOO Culture & Technology Co., Ltd.
+
+
+## 第二部分：第三方采用指南 / Part II: Third-Party Adoption Guide
+
+本部分为通用模板。任何企业、团队或个人在采用 QNLOO-SPL 范式时，应将下述内容中的方括号 `[ ]` 占位符替换为自己的实际信息，并删除本说明段落。
+
+This part is a universal template. Any enterprise, team, or individual adopting the QNLOO-SPL paradigm shall replace the bracketed `[ ]` placeholders in the following content with their actual information and delete this explanatory paragraph.
+
+
+### 受保护专利 / Protected Patents
+
+本仓库所关联的体系产品中，包含以下已向 `[专利局名称 / Patent Office Name]` 正式提交并已获得优先权日的专利：
+
+The system products associated with this repository include the following patents formally filed with `[Patent Office Name]` with secured priority dates:
+
+| 内部项目编号 / Internal Project No. | 专利名称 / Patent Name |
+| :--- | :--- |
+| `[填写内部项目编号]`<br>`[Fill in internal project number]` | `[填写专利名称]`<br>`[Fill in patent name]` |
+| `[填写内部项目编号]`<br>`[Fill in internal project number]` | `[填写专利名称]`<br>`[Fill in patent name]` |
+
+若相关专利已纳入行业标准，可额外标注为“标准必要专利（SEP）”。如暂无已提交的专利，可删除上表并替换为以下声明：
+
+If the relevant patents have been incorporated into industry standards, they may additionally be labeled as "Standard Essential Patents (SEPs)." If no patents have been filed yet, you may delete the table above and replace it with the following statement:
+
+> 本仓库暂无已正式提交的专利。本文件保留作为未来专利授权的模板占位。代码资产在 Apache License 2.0 下免费开放，商业运营行为受 QNLOO-SPL v1.0 约束。
+>
+> This repository has no formally filed patents at present. This document is retained as a placeholder template for future patent grants. Code assets are freely available under the Apache License 2.0. Commercial operational activities are governed by QNLOO-SPL v1.0.
+
+本部分可自由复用、修改，无需保留原版权标识，复用方自行替换版权信息。
+
+This part may be freely reused and modified without retaining the original copyright notice. The reuser shall replace the copyright information on its own.
+
+
+## 第三部分：通用条款 / General Terms
+
+以下条款为 QNLOO-SPL 范式的配套通用规则，与 QNLOO-SPL v1.0 主许可协同生效。专利计费、结算、维权规则均以主许可为准。采用方无需修改本部分内容。
+
+The following terms are the supporting general rules of the QNLOO-SPL paradigm, which take effect in conjunction with the QNLOO-SPL v1.0 master license. Patent billing, settlement, and enforcement rules are all governed by the master license. Adopters are not required to modify this part.
+
+
+### 专利授权范围 / Scope of Patent Grant
+
+Apache License 2.0 项下的专利授权，仅适用于源代码本身的复制、修改与分发行为。将本文件所列专利技术方案用于商业化产品运营、规模化对外提供服务的行为，其专利授权适用本文件分层规则与 QNLOO-SPL v1.0 相关约定。
+
+The patent license under Apache License 2.0 applies solely to the reproduction, modification, and distribution of the source code itself. The patent license for commercializing patented technical solutions in products or providing scaled services to the public shall be governed by the tiered rules herein and the relevant provisions of QNLOO-SPL v1.0.
+
+专利授权分层规则与对应项目的 QNLOO-SPL 范式主许可保持一致：个人非商用永久豁免；合规小微主体在营收阈值内免费商用；超出阈值的商业主体按主许可约定费率支付授权费。具体阈值、费率及合规要求以主许可文本为准。
+
+The tiered patent authorization rules are consistent with the corresponding project's QNLOO-SPL paradigm master license: permanent exemption for personal non-commercial use; free commercial use for compliant small-scale entities within the revenue threshold; commercial entities exceeding the threshold shall pay authorization fees at the rate specified in the master license. Specific thresholds, rates and compliance requirements shall be subject to the master license text.
+
+本文件项下专利授权，同样适用 Apache License 2.0 第 3 条专利反诉终止规则。
+
+The patent grant under this document is equally subject to the patent litigation retaliation termination rule set forth in Section 3 of the Apache License 2.0.
+
+
+### 法律效力与解释权 / Legal Effect and Interpretation Rights
+
+本文件的最终解释权归 `[资产持有主体名称 / Asset Holding Entity Name]` 所有。
+
+The final interpretation rights of this document are reserved by `[Asset Holding Entity Name]`.
+
+若本文件任意单条约定与适用法律产生冲突，冲突条款仅在该法域内自动失效，剩余全部条款完整存续并持续具备法律约束力。
+
+Should any single provision of this document conflict with applicable law, the conflicting provision shall automatically become ineffective only within that jurisdiction, while all remaining terms shall survive in full and continue to carry legally binding force.
+
+本部分为 QNLOO-SPL 范式配套通用规则，可自由复用、修改，无需保留原版权标识，复用方自行替换版权信息。
+
+This part constitutes the supporting general rules of the QNLOO-SPL paradigm, and may be freely reused and modified without retaining the original copyright notice. The reuser shall replace the copyright information on its own.
+
+
+本文件第一部分版权归厦门千年鹿文化科技有限公司 (Xiamen QNLOO Culture & Technology Co., Ltd.) 所有。第二、三部分通用模板可自由复用修改，复用方自行替换版权信息。
+
+The copyright of Part I of this document is owned by Xiamen QNLOO Culture & Technology Co., Ltd. Parts II and III are general templates that may be freely reused and modified, and the reuser shall replace the copyright information on its own.
+
+**版本发布日期 / Release Date**: 2026年6月30日
