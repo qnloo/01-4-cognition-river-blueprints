@@ -142,6 +142,38 @@ The official operator will continuously conduct Bayesian updates — proactively
 
 ---
 
+## 9. 克隆与下载说明 (Git LFS) / Clone & Download Instructions (Git LFS)
+
+本仓库的 PDF 及多媒体交付物采用 **Git LFS (Large File Storage)** 进行版本管理。
+
+*   **直接网页下载**：点击网页右上角的 **Code -> Download ZIP**，下载的压缩包中已包含**完整、可以直接阅读的 PDF 文件**。
+*   **使用命令行克隆**：
+    1.  请确保本地已安装 Git LFS（安装与下载指引请参考 [git-lfs.github.com](https://git-lfs.github.com/)）。
+    2.  安装后在终端运行一次初始化命令：
+        ```bash
+        git lfs install
+        ```
+    3.  使用 `git clone` 克隆仓库。如果克隆下来的 PDF 显示为文本指针，可在仓库目录下运行以下命令拉取真实文件：
+        ```bash
+        git lfs pull
+        ```
+
+This repository uses **Git LFS (Large File Storage)** to manage PDF and multimedia deliverables.
+
+*   **Web Download**: Click **Code -> Download ZIP** in the top-right corner. The downloaded ZIP archive contains the **fully readable PDF deliverables**.
+*   **Command-Line Clone**:
+    1.  Ensure Git LFS is installed on your local machine (refer to [git-lfs.github.com](https://git-lfs.github.com/)).
+    2.  Run the initialization command once:
+        ```bash
+        git lfs install
+        ```
+    3.  Run `git clone` to copy the repository. If the cloned PDFs appear as pointer text files, pull the actual files by running:
+        ```bash
+        git lfs pull
+        ```
+
+---
+
 **© 2026 千年鹿 QNLOO**
 
 **厦门千年鹿文化科技有限公司 / Xiamen QNLOO Culture & Technology Co., Ltd.**
