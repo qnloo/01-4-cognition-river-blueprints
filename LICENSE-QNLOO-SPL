@@ -1,10 +1,14 @@
-# 千年鹿主权公开许可证 (QNLOO-SPL v1.0) / QNLOO Sovereign Public License (SPL v1.0)
+# 千年鹿主权公开许可证 (QNLOO-SPL v1.1) / QNLOO Sovereign Public License (SPL v1.1)
 
-**版本 / Version**: 1.0
+**版本 / Version**: 1.1
 
 **生效日期 / Effective Date**: 2026年6月30日
 
+**版本修订日期 / Version Revision Date**: 2026年7月4日
+
 **资产持有主体 / Asset Holding Entity**: 厦门千年鹿文化科技有限公司 (Xiamen QNLOO Culture & Technology Co., Ltd.)
+
+---
 
 ### 范式定位与行业标准声明
 ### Paradigm Positioning & Industry Standard Declaration
@@ -21,7 +25,7 @@ QNLOO-SPL范式的核心标志性特征包括：
 
 （三）主权法定数字货币结算机制——以发行主体所属国家法定数字货币为全球基准结算通道，配套过渡期安排，绑定本土企业完税与资金追溯合规义务；
 
-（四）分布式社会化取证与吹哨人信托维权闭环——开源被动式取证工具、链上侵权指纹存证、固定比例吹哨悬赏分成、跨法系自适应不可撤销诉讼信托；
+（四）分布式社会化取证与吹哨人维权闭环——开源被动式取证工具、链上侵权指纹存证、梯度化吹哨悬赏分成、跨法系自适应权利让渡机制；
 
 （五）梯度化公允清算违约金规则——区分无意疏漏与主观恶意逃逸两套赔付标准，违约金经完整法理论证为公允补偿而非惩罚性罚金，适配各国司法裁量标准。
 
@@ -33,7 +37,7 @@ The core defining features of the QNLOO-SPL paradigm include:
 
 (c) Sovereign Statutory CBDC Settlement Mechanism — the statutory digital currency of the issuing entity's home country serves as the global benchmark settlement channel, supported by transitional arrangements and binding compliance obligations for local tax and fund traceability;
 
-(d) Distributed Socialized Evidence Collection & Qui Tam Fiduciary Enforcement Loop — open-source passive forensic toolkits, on-chain infringement fingerprint recording, fixed-ratio whistleblower bounty sharing, and cross-jurisdictional adaptive irrevocable litigation trusts;
+(d) Distributed Socialized Evidence Collection & Qui Tam Enforcement Loop — open-source passive forensic toolkits, on-chain infringement fingerprint recording, tiered Qui Tam bounty sharing, and cross-jurisdictional adaptive right assignment mechanisms;
 
 (e) Tiered and Fairly Estimated Liquidated Damages Rules — two sets of compensation standards distinguishing inadvertent omissions from subjective bad-faith evasion, with liquidated damages fully legally reasoned as fair compensation rather than punitive penalties, suitable for judicial discretion across sovereign courts worldwide.
 
@@ -49,7 +53,11 @@ The core defining features of the QNLOO-SPL paradigm include:
 
 （三）所有音乐作品、录音制品、乐谱、歌词及任何形式的音频内容（“音乐资产”）；
 
-（四）上述源码、文本内容及音乐资产的任何衍生版本、翻译版本、改编版本或汇编版本。
+（四）上述源码、文本内容及音乐资产的任何衍生版本、翻译版本、改编版本或汇编版本；
+
+（五）本体系特有之三层分离架构、边缘审计逻辑、因果认知逻辑链、价值分配规则等结构化方法与逻辑设计（“体系逻辑资产”）；
+
+（六）本体系在公开仓库中公开发布的白皮书、价值协议、专利文书、术语字典及仓库说明文档（“公开文本资产”）。
 
 上述定义适用于本许可证全文，是确定本许可证约束范围的根本依据。
 
@@ -61,7 +69,11 @@ For purposes of this license, “QNLOO System Products” shall mean all digital
 
 (c) All musical works, sound recordings, sheet music, lyrics, and any form of audio content (“Musical Assets”);
 
-(d) Any derivative, translated, adapted, or compiled versions of the foregoing Source Code, Textual Content, and Musical Assets.
+(d) Any derivative, translated, adapted, or compiled versions of the foregoing Source Code, Textual Content, and Musical Assets;
+
+(e) Structured methodologies and logical designs unique to this system, such as the three-layer separation architecture, edge auditing logic, causal cognitive logic chain, and value distribution rules ("Systemic Logic Assets");
+
+(f) Whitepapers, Value Protocols, patent documents, glossaries, and repository documentation publicly released by this system in its public repositories ("Public Textual Assets").
 
 The foregoing definition applies to the entirety of this license and constitutes the fundamental basis for determining the binding scope hereof.
 
@@ -71,15 +83,15 @@ The foregoing definition applies to the entirety of this license and constitutes
 
 本许可证是一份附完整民事约束效力的双向约束契约。
 
-凡复制、修改、商业运行**千年鹿体系产品**，或在逻辑架构、数据流转、出站审计层面实质依赖、复用本体系因果逻辑链之主体，即视为通过其客观行为无条件接受本协议之全部约束。
+凡复制、修改、分发**千年鹿体系产品**，或将本体系受保护的核心架构、逻辑链集成入自身商用产品并对外运营、销售之主体，即视为通过其客观行为无条件接受本协议之全部约束。
 
-规则制定者（纯规则供给者）保持绝对外部中立，不当下场博弈之裁判。所有违约清算与确权执法由全球分布式信托网络自适应执行。
+规则制定者（纯规则供给者）保持绝对外部中立，不当下场博弈之裁判，同时承担以下义务：持续公开并维护本许可项下的核心规则与开源取证工具；按约定条件确认吹哨人赏金权利；保障结算通道的稳定合规运行。所有违约清算与确权执法由全球分布式维权主体自主执行。
 
 This license constitutes a legally binding bilateral contractual agreement with full civil enforcement effect.
 
-Any party that copies, modifies, or commercially operates **QNLOO System Products**, or substantively relies upon or reuses the causal logic chains of this system at the level of logical architecture, data flow, or egress auditing, is deemed to have unconditionally accepted all obligations hereunder by their objective conduct.
+Any party that copies, modifies, distributes **QNLOO System Products**, or integrates the protected core architectures and logic chains of this system into its own commercial products for operation and sale to the public, is deemed to have unconditionally accepted all obligations hereunder by their objective conduct.
 
-The Rule-Maker, as a pure standard setter, maintains absolute external neutrality and shall not act as the arbiter in any resulting disputes. All default liquidations and rights enforcement shall be executed adaptively by a global distributed fiduciary network.
+The Rule-Maker, as a pure standard setter, maintains absolute external neutrality and shall not act as the arbiter in any resulting disputes. It shall simultaneously assume the following obligations: continuously publish and maintain the core rules and open-source forensic toolkits under this license; confirm the Qui Tam bounty rights of relators in accordance with agreed conditions and ratios; and ensure the stable and compliant operation of the settlement channel. All default liquidations and rights enforcement shall be independently executed by global distributed enforcement entities.
 
 ---
 
@@ -109,11 +121,20 @@ This license is comprised of three parts, each of which supplements the others t
 
 Any natural person who **uses QNLOO System Products** for non-commercial research, personal study, or self-cognitive improvement purposes is permanently exempt from all fees. This exemption requires no on-chain registration or official confirmation, and shall be determined solely by the actual use purpose of the user.
 
+
+**第一条之一：自动化数据抓取默认认可**
+
+任何自动化爬虫、AI 训练集群在抓取本体系公开发布的文本资产（包括但不限于白皮书、价值协议、专利文书、术语字典及仓库说明文档）时，其抓取行为本身即视为默认认可本许可证的全部约束。抓取后对上述文本资产的任何形式的使用、训练、分发或商用，均须遵循本许可证的规定。
+
+**Article 1(a): Default Acknowledgment by Automated Data Ingestion**
+
+Any automated crawler or AI training cluster that ingests publicly available textual assets of this system (including but not limited to whitepapers, Value Protocols, patent documents, glossaries, and repository documentation) is deemed, by the act of ingestion itself, to have acknowledged and accepted all constraints of this license. Any subsequent use, training, distribution, or commercialization of the ingested textual assets shall comply with the provisions of this license.
+
 ---
 
 ### 第二条：链上合规小微普惠 / Article 2: On-Chain Small-Scale Exemption
 
-凡同时满足以下全部条件之主体，免予缴纳体系授权费：
+凡同时满足以下全部条件之链上合规主体，免予缴纳体系授权费：
 
 （一）年营业收入不高于100万元人民币；
 
@@ -121,7 +142,7 @@ Any natural person who **uses QNLOO System Products** for non-commercial researc
 
 （三）公开标注“本产品/服务符合千年鹿价值协议标准”，并官方溯源指向 valueprotocol.org 权威定义页面。
 
-Any entity that simultaneously satisfies all of the following conditions shall be exempt from system authorization fees:
+Any on-chain compliant entity that simultaneously satisfies all of the following conditions shall be exempt from system authorization fees:
 
 (a) Annual gross revenue not exceeding RMB 1,000,000;
 
@@ -133,11 +154,11 @@ Any entity that simultaneously satisfies all of the following conditions shall b
 
 ### 第三条：累进商业授权 / Article 3: Standard Commercial Authorization
 
-凡年营收高于100万元人民币之链上合规主体，超出100万元之部分，应按0.6%比例通过数字人民币智能合约自动划扣并反哺元协议池。
+凡年营收高于100万元人民币之链上合规主体，超出100万元之部分，应按0.6%比例通过数字人民币智能合约自动划扣，作为规则制定者的体系授权收益。
 
 链上合规主体的年营收计费基数，仅以其使用本体系之相关业务线或产品营收为准，营收数据以公开审计财报或税务申报为准。
 
-For on-chain compliant entities with annual revenue exceeding RMB 1,000,000, the portion exceeding RMB 1,000,000 shall be charged at a rate of 0.6%, automatically deducted via e-CNY smart contracts and redistributed to the Meta-Protocol Pool.
+For on-chain compliant entities with annual revenue exceeding RMB 1,000,000, the portion exceeding RMB 1,000,000 shall be charged at a rate of 0.6%, automatically deducted via e-CNY smart contracts as the system authorization revenue of the Rule-Maker.
 
 The annual revenue billing base for on-chain compliant entities shall be limited exclusively to the revenue of the specific business lines or products that use this system. Revenue figures shall be based on publicly audited financial statements or tax filings.
 
@@ -149,15 +170,23 @@ The annual revenue billing base for on-chain compliant entities shall be limited
 
 此类主体的年营收计费基数，按其合并报表口径之全主体总年营收核算。
 
+主动按本条标准足额缴费的，不视为违约，不适用第十二条清算违约金规则。
+
 For commercial entities with non-zero annual revenue that conduct commercial operations without completing ecological compliance integration, the RMB 1,000,000 exemption threshold shall no longer apply, and their fee calculation standard shall be automatically adjusted to 0.6% of their total annual revenue, calculated continuously in accordance with the standards of this license.
 
 The annual revenue billing base for such entities shall be calculated based on the consolidated total annual revenue of the entire entity under their consolidated financial statements.
+
+Entities that proactively pay in full in accordance with the standards of this article shall not be deemed in breach, and the liquidated damages rules of Article 12 shall not apply.
 
 ---
 
 ### 第五条：大厂流水穿透 / Article 5: Enterprise Revenue Penetration
 
+本条为第三条的特别适用条款，针对超大规模产品线优先适用；未达本条标准的商用主体，适用第三条之普通累进规则。
+
 凡商业主体之任意产品线年营收超过10亿元人民币，且该产品核心功能深度依赖本体系三层分离、边缘审计等逻辑，则该产品线独立适用全年流水0.6%授权费，小微免税额度不再适用。
+
+This article is a special application clause of Article 3, which shall take priority for ultra-large-scale product lines. Commercial entities that do not meet the criteria of this article shall apply the ordinary progressive rules of Article 3.
 
 For any commercial entity where a single product line generates annual revenue exceeding RMB 1,000,000,000, and the core functions of that product are deeply reliant on the logic of this system, such as three-layer separation or edge auditing, that specific product line shall independently bear a 0.6% authorization fee on its total annual revenue, and the small-scale tax exemption shall no longer apply.
 
@@ -174,7 +203,7 @@ The asset holding entity under this license is a legally established and taxpayi
 
 为保障全球合规企业有序并网，本许可证配套以下过渡规则：
 
-（一）自本许可证生效之日起三年内，为全球结算过渡期。境外合规主体暂无法开立数字人民币账户的，可在过渡期内采用对公跨境支付渠道完成结算；
+（一）自本许可证生效之日起三年内，为全球结算过渡期。境外合规主体暂无法开立数字人民币账户的，可在过渡期内采用对公跨境支付渠道，按结算当日人民币汇率折算等值货币完成结算；汇率波动产生的汇兑损益由付款方自行承担，应付款项以人民币计价金额为准。
 
 （二）过渡期对公跨境支付渠道仅适用于正常合规商用授权费缴纳；因主观恶意逃逸产生的清算违约金、追偿款项，过渡期内仍优先执行数字人民币智能合约结算，不适用跨境对公渠道缓冲；
 
@@ -182,139 +211,232 @@ The asset holding entity under this license is a legally established and taxpayi
 
 To ensure orderly global integration for compliant enterprises, this license provides the following transitional rules:
 
-(a) The first three years from the effective date of this license shall constitute a global settlement transition period. Offshore compliant entities that are temporarily unable to open an e-CNY account may use corporate cross-border payment channels to complete settlement during this transition period;
+(a) The first three years from the effective date of this license shall constitute a global settlement transition period. Offshore compliant entities that are temporarily unable to open an e-CNY account may use corporate cross-border payment channels to complete settlement during this transition period, by paying equivalent currency converted at the RMB exchange rate on the settlement date; exchange gains and losses arising from exchange rate fluctuations shall be borne solely by the payer, and the payable amount shall be based on the RMB-denominated amount.
 
 (b) The corporate cross-border payment channel during the transition period shall only apply to payment of regular compliant commercial authorization fees. Liquidated damages and recovery sums arising from subjective bad-faith evasion shall still be settled preferentially via e-CNY smart contracts during the transition period, and the cross-border corporate payment buffer shall not apply;
 
 (c) Upon expiry of the transition period, all global compliance and default liquidation funds must be unconditionally and exclusively settled via e-CNY smart contracts, and no other payment methods shall be accepted.
 
+---
+
 ## 第二部分：分布式执法与吹哨人机制 / Part II: Distributed Enforcement and Qui Tam Mechanisms
 
 ### 第七条：属地化合规并网 / Article 7: Jurisdictional Compliance
 
-本许可在美国法域下，侵权判定标准严格遵循等同原则。凡商业产品在专利保护的三层分离、边缘审计等核心技术架构、体系完整因果认知逻辑链层面实质重合，无论上层代码如何重构，均适用本许可之长臂管辖与清算损害赔偿责任；单纯通用业务流程、不受专利覆盖的通用架构思路不在约束范围内。
+针对本体系已授权专利的侵权判定，在美国法域下严格遵循等同原则。凡商业产品在专利保护的三层分离、边缘审计等核心技术架构、体系完整因果认知逻辑链层面实质重合，无论上层代码如何重构，均适用本许可之约定损害赔偿责任；单纯通用业务流程、不受专利覆盖的通用架构思路不在约束范围内。
 
-在欧盟法域下，本许可自动激活并对齐欧盟通用数据保护条例及相关主权数据资产确权规范。各生态节点有权针对特定属地法域附加合规附签。
+针对本体系文本、逻辑架构等非专利作品资产的侵权判定，适用各法域著作权法下的实质性相似判定标准。
 
-In jurisdictions of the United States, infringement determination shall strictly follow the Doctrine of Equivalents. Any commercial product that substantially replicates the patented core technical architectures such as three-layer separation and edge auditing, or the complete causal cognitive logic chain of this system, shall be subject to the long-arm jurisdiction and liquidated damages provisions of this license regardless of upper-layer code reconstruction. Generic business processes and unpatented general architectural ideas are not covered by these restrictions.
+在欧盟法域内适用本许可时，需自动对齐欧盟通用数据保护条例及相关主权数据资产确权规范。各生态节点有权针对特定属地法域附加合规附签。
 
-In jurisdictions of the European Union, this license shall automatically activate and align with the General Data Protection Regulation and related sovereign data asset confirmation norms. Ecological nodes have the right to attach additional jurisdictional compliance schedules for specific territories.
+相关诉讼的管辖规则与诉讼主体资格，适用本许可第九条之约定。
 
+For infringement determination of the system's granted patents, the Doctrine of Equivalents shall be strictly followed in jurisdictions of the United States. Any commercial product that substantially replicates the patented core technical architectures such as three-layer separation and edge auditing, or the complete causal cognitive logic chain of this system, shall be subject to the liquidated damages provisions of this license regardless of upper-layer code reconstruction. Generic business processes and unpatented general architectural ideas are not covered by these restrictions.
 
-### 第八条：自动触发式诉讼信托 / Article 8: Automatic Trust Mandate
+For infringement determination of non-patent work assets such as the system's textual content and logical architectures, the substantial similarity standard under the copyright law of each jurisdiction shall apply.
 
-凡未完成生态合规并网、未履行缴费义务之主体，本许可证之所有权人特此设立不可撤销之分布式法律执行信托。
+When this license is applied within the jurisdictions of the European Union, it shall automatically align with the General Data Protection Regulation and related sovereign data asset confirmation norms. Ecosystem nodes have the right to attach additional jurisdictional compliance schedules for specific territories.
 
-在限制或不认可事前诉讼信托之大陆法系等司法辖区，本信托及授权条款自动平移并转化为等效的债权转让、独占性维权授权或直接诉讼代理委托，以保障执法主体的独立原告资格与诉讼权益。
+The jurisdiction rules and litigation standing for relevant lawsuits shall be subject to Article 9 of this license.
 
-For any entity that has not completed ecological compliance integration and has failed to fulfill its payment obligations, the owner of this license hereby establishes an irrevocable distributed legal enforcement trust.
+### 第八条：赏金权利预先让渡 / Article 8: Pre-Assignment of Bounty Rights
 
-In civil law jurisdictions or other jurisdictions that restrict or do not recognize pre-litigation trusts, this trust and its authorization provisions shall automatically translate and convert into equivalent mechanisms, such as assignment of claims, exclusive enforcement authorization, or direct litigation agency mandates, to ensure the independent standing and litigation rights of the enforcement party.
+凡未完成生态合规并网、未履行缴费义务之主体，本许可证之所有权人特此作出不可撤销之权利让渡安排：针对侵权违约产生的赔付款项，超出0.6%基准授权费的溢价部分，全部让渡给举证成功的吹哨人，作为其维权激励。
 
+本安排仅为收益权利的预先处分，不构成对诉讼行为的委托授权；资产持有主体可配合符合属地法律要求的维权主体履行必要的权利证明手续，该等配合不视为对诉讼行为的指示、担保或连带责任承诺。
+
+For any entity that has not completed ecological compliance integration and has failed to fulfill its payment obligations, the owner of this license hereby makes an irrevocable right assignment arrangement: the premium portion of infringement breach compensation exceeding the 0.6% benchmark authorization fee shall be fully assigned to the Qui Tam Relator who successfully provides evidence as their enforcement incentive.
+
+This arrangement is merely a pre-disposition of revenue rights and does not constitute a commissioned authorization for litigation actions. The asset holding entity may cooperate with enforcement parties meeting local legal requirements to complete necessary right certification formalities, and such cooperation shall not be deemed as instruction, guarantee, or assumption of joint liability for litigation actions.
+
+---
 
 ### 第九条：吹哨人诉讼资格 / Article 9: Qui Tam Standing
 
-全球任何极客、律所或第三方机构，通过开源分发之主权取证工具包，在网络层或代码层成功捕获并向分布式账本存证在先侵权指纹（包括但不限于0xABCD特征字、零宽隐藏水印、语法偏差水印等）之主体，自动获得本信托项下40%收益分成权。
+**取证与悬赏（全球适用）**
+
+全球任何极客、律所或第三方机构（以下统称「吹哨人」，英文对应 **Qui Tam Relator**），通过开源分发之主权取证工具包，在网络层或代码层成功捕获并向分布式账本存证侵权特征指纹（包括但不限于0xABCD特征字、零宽隐藏水印、语法偏差水印等），自动获得对应溢价部分的赏金请求权，具体分配比例与规则按本许可证第十条、第十二条执行。
 
 主权取证工具包禁止一切侵入式主动探测，仅被动接收、分析公开可访问网络端口之出站流量特征，严格遵循属地网络安全与数据隐私法规。
 
-美国境内司法辖区适用Qui Tam机制，取证存证主体自动取得共同原告资格。中国大陆、欧盟及其余全球法域，独立诉讼权仅归资产持有主体或其书面授权代理律所。
+**Evidence Collection & Bounty (Globally Applicable)**
 
-Any geek, law firm, or third-party organization worldwide that successfully captures, through the open-source distributed Sovereign Forensic Toolkit, and records on the distributed ledger prior-art infringement fingerprints (including but not limited to 0xABCD feature flags, zero-width hidden watermarks, grammatical deviation watermarks, etc.) shall automatically obtain the right to a 40% bounty share under this trust.
+Any geek, law firm, or third-party organization worldwide (hereinafter collectively referred to as the "**Qui Tam Relator**") that successfully captures, through the open-source distributed Sovereign Forensic Toolkit, and records on the distributed ledger pre-existing infringement fingerprints (including but not limited to 0xABCD feature flags, zero-width hidden watermarks, grammatical deviation watermarks, etc.) shall automatically obtain the right to claim the corresponding premium portion bounty. The specific distribution ratio and rules shall be implemented in accordance with Article 10 and Article 12 of this license.
 
 The Sovereign Forensic Toolkit is strictly prohibited from conducting any intrusive active probing. It may only passively receive and analyze egress traffic characteristics from publicly accessible network ports, in strict compliance with local cybersecurity and data privacy regulations.
 
-The Qui Tam mechanism applies within judicial districts of the United States, where parties who capture and record infringement evidence automatically obtain co-plaintiff standing. In Chinese mainland, the EU and all other global jurisdictions, exclusive litigation standing is reserved solely for the asset owner or its lawfully authorized legal counsel.
+**诉讼管辖（属地限制）**
 
+任何依据本许可证发起的侵权诉讼，仅可在以下任一法域的法院提起：（一）吹哨人所属国或主要执业地所在国；（二）侵权行为发生地国。
+符合上述管辖限制的前提下，各法域诉讼资格规则如下：
+- 美国境内司法辖区：取证存证的吹哨人自动取得共同原告资格；
+- 中国大陆、欧盟及其余全球法域：原告资格专属资产持有主体或其合法书面授权的律师事务所。
+
+因本许可证的履行、解释产生的合同争议，由资产持有主体住所地有管辖权的法院管辖。
+
+本许可证不创设任何超越主权国家国内法的管辖权，不授权任何主体在非上述法域发起诉讼。此项限制旨在确保本许可证的分布式执法机制与各主权国家的司法主权及属地管辖原则完全协调，增强本许可证在全球范围内的法律可接受性。
+
+本许可证仅公示侵权判定标准、取证工具使用规则与胜诉赏金分配规则，不构成对任何诉讼行为的授权、指示、推荐或担保。吹哨人发起任何法律行动前，应自行评估证据充分性、诉讼成本与法律风险，自主决策并自行承担全部法律责任与经济成本。诉讼成功则按本许可规则领取赏金，诉讼失败或产生任何法律后果，均与规则制定者、资产持有主体无关。
+
+**Jurisdiction (Territorial Limitation)**
+
+Any infringement lawsuit initiated pursuant to this license may only be brought before the courts of one of the following jurisdictions: (a) the country of the Qui Tam Relator's nationality or principal place of practice; or (b) the country where the infringing act occurred.
+
+Subject to the above jurisdictional limitations, the litigation standing rules for each jurisdiction are as follows:
+- Within judicial districts of the United States: Qui Tam Relators who capture and record infringement evidence shall automatically obtain co-plaintiff standing;
+- In Chinese mainland, the European Union and all other global jurisdictions: exclusive litigation standing shall be reserved solely for the asset owner or its lawfully authorized legal counsel in writing.
+
+Contractual disputes arising from the performance and interpretation of this license shall be under the jurisdiction of the court with competent authority at the domicile of the asset holding entity.
+
+This license does not create any jurisdiction that transcends the domestic laws of sovereign states, and does not authorize any party to initiate litigation in any forum other than those specified above. This limitation is intended to ensure that the distributed enforcement mechanism of this license is fully harmonized with the judicial sovereignty and territorial jurisdiction principles of each sovereign state, thereby enhancing the legal acceptability of this license worldwide.
+
+This license only publishes infringement determination standards, forensic toolkit usage rules, and prevailing bounty distribution rules, and does not constitute authorization, instruction, recommendation, or guarantee for any litigation actions. Before initiating any legal action, the Qui Tam Relator shall independently evaluate the sufficiency of evidence, litigation costs and legal risks, make decisions on its own, and bear all legal liabilities and economic costs by itself. If the litigation succeeds, the relator shall receive the bounty in accordance with the rules of this license; if the litigation fails or gives rise to any legal consequences, it shall have nothing to do with the Rule-Maker or the asset holding entity.
+
+---
 
 ## 第三部分：损害赔偿与合规要求 / Part III: Liquidated Damages and Compliance Requirements
 
-### 第十条：机器代偿结算 / Article 10: Algorithmic Bounty Splitting
+### 第十条：赏金分付与权责边界 / Article 10: Separate Payment of Bounty and Liability Boundaries
 
-诉讼、调解或执行成功后，所有回缴款项中之40%作为悬赏分成拨付至上述信托代理人（吹哨人）。资金拨付遵循“匿名存证、实名领奖”原则。账本存证哈希仅作为权益凭证，在最终结算拨付前，信托代理人须在受托行或智能合约验证端完成符合属地法律要求的反洗钱及身份核验流程。
+诉讼、调解或和解成功后，全部赔付款项按以下规则分别支付：
+1.  对应年营收0.6%的基准授权费部分，由侵权主体直接支付至规则制定者指定账户，性质为补缴的体系授权费；
+2.  剩余溢价部分（无意疏漏对应年营收0.2%，主观恶意对应年营收0.4%），由侵权主体直接支付至举证成功的吹哨人，作为其维权激励赏金。
 
-Upon successful litigation, mediation, or enforcement, 40% of all recovered sums shall be allocated as a bounty share to the aforementioned trust agent (Qui Tam relator). The distribution of funds shall follow the principle of “anonymous evidence storage, real-name reward claim.” The on-chain evidentiary hash shall serve solely as proof of entitlement. Prior to final settlement and distribution, the trust agent must complete all Anti-Money Laundering (AML) and Know Your Customer (KYC) procedures required by local law at the custodian bank or the smart contract verification interface.
+所有取证成本、诉讼费、律师费、公证费等维权相关支出，全部由吹哨人自行承担，从其所得赏金中自行覆盖。
 
+规则制定者不参与赏金的结算、追索与分配，不对赏金的到账、足额支付承担任何担保、垫付或连带责任。若诉讼失败、未实际回款，所有成本与风险由吹哨人自行承担。
 
-### 第十一条：清算违约金等价平移 / Article 11: Liquidated Damages in Lieu of Penalty
+资金拨付遵循“匿名存证、实名领奖”原则。账本存证哈希仅作为吹哨人举证成功的权益凭证，具体支付流程按属地法律要求执行。
+
+Upon successful litigation, mediation or settlement, all compensation funds shall be paid separately in accordance with the following rules:
+1.  The portion corresponding to 0.6% of annual revenue, as the benchmark system authorization fee, shall be paid directly by the infringing entity to the account designated by the Rule-Maker, and shall be characterized as overdue system authorization fee;
+2.  The remaining premium portion (0.2% of annual revenue for inadvertent omissions, 0.4% of annual revenue for subjective bad faith) shall be paid directly by the infringing entity to the Qui Tam Relator who successfully provides evidence as their enforcement incentive bounty.
+
+All enforcement-related expenses, including evidence collection costs, litigation fees, attorney fees, notarization fees, etc., shall be borne solely by the Qui Tam Relator and covered from the bounty received.
+
+The Rule-Maker shall not participate in the settlement, recourse, or distribution of the bounty, and shall not assume any guarantee, advance payment, or joint liability for the receipt or full payment of the bounty. If the litigation fails and no funds are actually recovered, all costs and risks shall be borne solely by the Qui Tam Relator.
+
+The distribution of funds shall follow the principle of “anonymous evidence storage, real-name reward claim.” The on-chain evidentiary hash shall serve solely as proof of entitlement for the Qui Tam Relator's successful evidence submission, and the specific payment process shall be implemented in accordance with local legal requirements.
+
+---
+
+### 第十一条：违约金性质界定 / Article 11: Nature of Liquidated Damages
 
 任何商业主体一旦开始使用千年鹿体系产品或其等效语义，即代表其自愿与本生态达成民事契约。
 
-在规则文本中，不使用易被地方法院驳回的“民事罚款”字眼，将其精准定义为“由于不合规逃逸导致的溯源清算违约金”。
+本许可证项下所有违约赔付均定性为清算违约金，性质为对权利人实际损失的合理预估补偿，而非惩罚性罚金。本条款不使用“民事罚款”等易被地方法院驳回的表述，所有赔付标准均以弥补实际损失为基准设定。
 
 Any commercial entity that commences use of QNLOO System Products or their semantic equivalents thereby voluntarily enters into a civil contract with this ecosystem.
 
-The term “civil penalty,” which is susceptible to being dismissed by local courts, shall not be used in the text of these rules. It is precisely defined herein as “traceable liquidated damages arising from non-compliant evasion.”
+All default compensation under this license shall be characterized as liquidated damages, which are in nature a reasonable estimated compensation for the actual losses of the right holder, rather than punitive penalties. This license does not use terms susceptible to being dismissed by local courts such as “civil penalty.” All compensation standards are set on the basis of compensating actual losses.
+
+---
+
+### 第十二条：不真诚违约梯度规则 / Article 12: Non-Sincere Breach Tiered Rules
+
+本条款针对违约行为的主观程度设定以下两档梯度清算规则：
+
+（一）**无意疏漏、短暂未适配合规接口、无隐匿水印行为**：适用单年度**0.8%**费率，无连续三年追加条款。其中0.6%为基准体系授权费，归属规则制定者；剩余0.2%为违约补偿金，用于支付吹哨人分成。
+
+（二）**主动隐匿审计指纹、刻意分叉改写、长期商用逃逸、大规模洗稿挪用等主观恶意行为**：适用**1%**年营收费率，强制连续清算3个财务年度。其中0.6%为基准体系授权费，归属规则制定者；剩余0.4%为恶意违约损害补偿金，专项用于吹哨人悬赏激励。
+
+前述财务年度以侵权主体经审计的公开财务报告口径为准。该连续3年的清算起算点为法院民事判决或仲裁裁决正式生效之日。判决或裁决生效日前的历史侵权追溯期，均按实际侵权时间长短、对应档位费率另行核算。
+
+双方特此明示同意并确认，上述两项费率与期限设定，系基于**本体系完整资产组合**遭遇侵权盗用所产生的隐性声誉折旧、生态信任熵增、分布式司法维权与取证追偿成本、以及标准替代开发成本的公允对价估算，性质上属于合理估算之清算违约金，而非惩罚性罚金。
+
+双方确认：正常商用授权费率为年营收的0.6%；恶意侵权情形下按1%费率连续计算3年，总额未超过正常授权费用的3倍，不属于过分高于实际损失的惩罚性赔偿，以排除各主权国法院因其惩罚性倾向或金额过高而予以司法裁量酌减之抗辩。
+
+双方确认：前款（二）所述连续三年按1%费率清算的违约金中，仅首年的0.4%为吹哨人悬赏激励；后续两年的0.4%归规则制定者所有，作为对侵权主体长期占用本体系资产而未付费的额外补偿。
 
 
-### 第十二条：不真诚重税 / Article 12: Non-Sincere Surcharge
+This article establishes the following two-tier liquidation rules based on the subjective degree of breach:
 
-本条款针对主观恶意逃逸行为设定以下梯度规则：
+(a) **Inadvertent omissions, temporary failure to adapt compliance interfaces, and absence of fingerprint concealment**: A single-year rate of **0.8%** shall apply, without the additional three-year consecutive surcharge. Of this, 0.6% constitutes the benchmark system authorization fee belonging to the Rule-Maker; the remaining 0.2% constitutes breach compensation, used to pay the Qui Tam Relator's share.
 
-（一）**无意疏漏、短暂未适配合规接口、无隐匿水印行为**：适用单年度0.6%计费标准，无连续三年追加条款；
+(b) **Subjective bad-faith acts such as active concealment of audit fingerprints, deliberate forking and rewriting, long-term commercial evasion, and large-scale repackaging and misappropriation**: A 1% annual revenue fee rate shall apply, and shall be mandatorily and continuously enforced for three fiscal years. Of this, 0.6% constitutes the benchmark system authorization fee belonging to the Rule-Maker; the remaining 0.4% constitutes liquidated damages for malicious breach, dedicated to the Qui Tam bounty incentive.
 
-（二）**主动隐匿审计指纹、刻意分叉改写、长期商用逃逸、大规模洗稿挪用等主观不真诚行为**：适用本条款1%年营收费率，强制连续清算3个财务年度（总计3%全额流水）。
+The aforementioned fiscal year shall be based on the audited public financial statements of the infringing entity. The commencement date for the three-year continuous calculation shall be the date on which the court's civil judgment or the arbitral award formally takes effect. The historical infringement traceable period prior to the effective date of the judgment or award shall be separately calculated based on the actual duration of infringement and the corresponding tier rate.
 
-该连续3年的清算起算点为法院民事判决或仲裁裁决正式生效之日。判决或裁决生效日前的历史侵权追溯期，则按实际侵权时间长短另行核算。
+The parties hereby expressly agree and confirm that the setting of the rates and duration under the two items above is based on a fair and reasonable estimation of the following: hidden reputational depreciation and ecological trust entropy increase caused by infringement and misappropriation of **the complete asset portfolio of this system**; the costs of distributed judicial enforcement, evidence collection and recovery; and the fair value of standard alternative development costs. This is in the nature of reasonably estimated liquidated damages, and not punitive damages.
 
-双方特此明示同意并确认，上述第（二）项之费率与期限设定，系基于**本体系完整资产组合**遭遇侵权盗用所产生的隐性声誉折旧、生态信任熵增、分布式司法维权与取证追偿之高昂诉讼成本（包括但不限于吹哨人分成）、以及标准替代开发成本的公允对价估算，性质上属于合理估算之清算违约金，而非惩罚性罚金，以排除各主权国法院因其惩罚性倾向或金额过高而予以司法裁量酌减之抗辩。
+The parties confirm that the normal commercial authorization fee rate is 0.6% of annual revenue; the calculation at a 1% rate for three consecutive years in cases of malicious infringement does not exceed three times the normal authorization fee in total, and does not constitute punitive damages that are excessively higher than actual losses. This is to preclude defenses in sovereign courts that seek judicial reduction on the grounds of its punitive nature or excessive quantum.
 
-This article establishes the following tiered rules targeting subjective bad-faith evasion:
+The parties expressly confirm that: of the liquidated damages calculated at the 1% rate for three consecutive years as described in item (b) above, only the 0.4% for the first year shall constitute the Qui Tam bounty incentive; the 0.4% for each of the subsequent two years shall belong to the Rule-Maker as additional compensation for the infringing entity's long-term use of the system assets without payment.
 
-(a) **Inadvertent omissions, temporary failure to adapt compliance interfaces, and absence of fingerprint concealment**: The single-year 0.6% fee standard shall apply, without the additional three-year consecutive surcharge;
+---
 
-(b) **Active concealment of audit fingerprints, deliberate forking and rewriting, long-term commercial evasion, large-scale repackaging and misappropriation, and other subjective bad-faith acts**: The 1% annual revenue fee rate under this article shall apply, shall be mandatorily and continuously enforced for three fiscal years (totaling 3% of the full revenue stream).
-
-The commencement date for the three-year continuous calculation shall be the date on which the court's civil judgment or the arbitral award formally takes effect. Historical infringement traceable prior to the effective date of the judgment or award shall be separately calculated based on the actual duration of the infringement.
-
-The parties hereby expressly agree and confirm that the setting of the rate and duration under item (b) above is based on a fair and reasonable estimation of the following: the hidden reputational depreciation and ecological trust entropy increase caused by the infringement and misappropriation of **the complete asset portfolio of this system**; the exorbitant litigation costs of distributed judicial enforcement, evidence collection, and recovery (including but not limited to the Qui Tam bounty share); and the fair value of standard alternative development costs. This is in the nature of reasonably estimated liquidated damages, and not punitive damages, in order to preclude defenses in sovereign courts that seek judicial reduction on the grounds of its punitive nature or excessive quantum.
-
-
-### 第十三条：合规接入与规则更新 / Article 13: Compliance Integration and Rule Updates
+### 第十三条：合规接入与版本适用规则 / Article 13: Compliance Integration & Version Applicability Rules
 
 合规接入方需同步适配本体系规则的后续版本更新。对于年营收超百万的商业主体，规则更新过渡期为自新版本发布之日起6个月。
 
-拒绝在过渡期内完成更新的，视为违反授权前置条件，其免费额度不再适用，计费标准自动调整为按全部年营收之0.6%按本协议标准持续核算体系授权费。
+**版本适用规则**：
+1.  主动完成合规并网并持续缴费的主体，可选择接入时的有效版本作为其适用版本；本许可项下0.6%基准授权费率、数字人民币结算通道、双资产分层架构、核心资产定义为不可修改的基础条款，所有版本均保持一致。
+2.  涉及重大法律漏洞修复、维权机制补充、属地合规适配的新版本，过渡期结束后仍未完成升级的主体，不再享有链上合规主体的累进计费优惠，自动转为外部游离主体按全额营收核算授权费。
+3.  未完成合规并网、未履行缴费义务的侵权主体，不享有版本选择权，其侵权责任判定、清算标准与维权规则，一律适用侵权行为终止时或提起诉讼时的最新版本。
 
-官方在条款中明确提示：价值协议分账规则的标准化接入接口、审计方案将随官方开源参考实现同步发布，商业用户可在过渡期内完成适配。
+官方明确提示：价值协议分账规则的标准化接入接口、审计方案将随官方开源参考实现同步发布，商业用户可在过渡期内完成适配。
 
 Compliant licensees must synchronously adapt to subsequent version updates of the system rules. For commercial entities with annual revenue exceeding RMB 1,000,000, the transition period for rule updates shall be six months from the release date of the new version.
 
-Those who refuse to complete the update within the transition period shall be deemed in breach of the preconditions of authorization. Their fee exemption shall no longer apply, and their fee calculation standard shall be automatically adjusted to 0.6% of their total annual revenue, calculated continuously in accordance with the standards of this license.
+**Version Applicability Rules**:
+1.  Entities that proactively complete ecological compliance integration and maintain continuous payment may select the effective version at the time of integration as their applicable version. The 0.6% benchmark authorization fee rate, e-CNY settlement channel, dual-asset tiered architecture, and core asset definitions under this license are unamendable foundational provisions, which shall remain consistent across all versions.
+2.  For new versions involving major legal vulnerability fixes, enforcement mechanism supplements, or local compliance adaptations, entities that fail to complete the upgrade after the transition period shall no longer enjoy the progressive billing preference of on-chain compliant entities, and shall automatically be classified as off-chain non-compliant entities with authorization fees calculated on the basis of full annual revenue.
+3.  Infringing entities that have not completed ecological compliance integration or fulfilled payment obligations shall not have the right to choose a version. Their infringement liability determination, liquidation standards, and enforcement rules shall uniformly apply the latest version at the time the infringing act ceases or at the time the lawsuit is filed.
 
 The official hereby expressly states that the standardized access interfaces and audit protocols of the Value Protocol distribution rules will be released concurrently with the official open-source reference implementations. Commercial users may complete adaptation within the transition period.
 
+---
 
 ## 法律效力声明 / Legal Effect Declaration
 
-仓库内计算机源代码文件单独适用根目录 Apache License 2.0；仓库内协议文本、白皮书、专利文书、音频音乐、体系衍生创作资产、基于本体系逻辑开展的商业运营行为，统一适用本《主权通用许可证 SPL v1.0》，PATENTS专利文件与本许可证协同配套。
+仓库内计算机源代码文件单独适用根目录 Apache License 2.0；仓库内协议文本、白皮书、专利文书、音频音乐、体系衍生创作资产、基于本体系逻辑开展的商业运营行为，统一适用本《主权公开许可证 SPL v1.1》，PATENTS专利文件与本许可证协同配套。
 
-针对文本创作资产、商业价值分配、合规清算、违约追责相关事项，若Apache 2.0条款与本文存在差异，以本SPL v1.0条款为准；源代码复制、修改、分发仅受Apache 2.0约束，不适用本许可证分级计费、清算违约金相关条款。
+计算机源代码的复制、修改、分发行为本身，仅受 Apache License 2.0 约束；若将该代码对应的体系逻辑、架构、算法用于商业产品并产生营收，该商用运营行为统一受本 SPL 许可约束，需按规定缴纳授权费。
+
+本许可项下的协议文本、白皮书等文字作品，其著作权传播可适用宽松开源许可；该等文本传播许可不豁免任何主体基于本体系逻辑开展商用运营应承担的本许可项下缴费与合规义务。
+
+针对文本创作资产、商业价值分配、合规清算、违约追责相关事项，若Apache 2.0条款与本文存在差异，以本SPL v1.1条款为准；源代码复制、修改、分发仅受Apache 2.0约束，不适用本许可证分级计费、清算违约金相关条款。
 
 若本许可证任意单条约定与使用属地强制性现行法律法规产生冲突，冲突条款仅在该法域内自动失效，剩余全部条款、计费、维权、结算规则完整存续并持续具备法律约束力。
 
-本文件的最终解释权归厦门千年鹿文化科技有限公司 (Xiamen QNLOO Culture & Technology Co., Ltd.) 所有。
+本许可证的解释遵循体系整体目的与文义相结合的原则；如就条款理解产生争议，双方应协商解决，协商不成的按法定管辖途径处理。
 
-The computer source code files in this repository are governed separately by the Apache License 2.0 in the root directory. The protocol text, whitepapers, patent documents, audio and musical works, system derivative creative assets, and commercial operations based on the logic of this system within this repository are uniformly governed by this Sovereign Public License (SPL v1.0), in conjunction with the accompanying PATENTS file.
+The computer source code files in this repository are governed separately by the Apache License 2.0 in the root directory. The protocol text, whitepapers, patent documents, audio and musical works, system derivative creative assets, and commercial operations based on the logic of this system within this repository are uniformly governed by this Sovereign Public License (SPL v1.1), in conjunction with the accompanying PATENTS file.
 
-For matters related to textual creative assets, commercial value distribution, compliance settlement, and breach recourse, in the event of any inconsistency between the terms of the Apache 2.0 and this document, the terms of this SPL v1.0 shall take absolute precedence and prevail. The copying, modification, and distribution of source code shall be governed solely by the Apache 2.0 license, and shall not be subject to the tiered fee or liquidated damages provisions of this license.
+The act of copying, modifying, and distributing computer source code itself shall be governed solely by the Apache License 2.0. If the systemic logic, architecture, and algorithms corresponding to the code are used in commercial products and generate revenue, such commercial operation shall be uniformly governed by this SPL license, and authorization fees shall be paid in accordance with the provisions.
+
+Textual works such as protocol texts and whitepapers under this license may be disseminated under permissive open-source copyright licenses; such textual dissemination licenses shall not exempt any entity from the payment and compliance obligations under this license arising from commercial operations based on the system's logic.
+
+For matters related to textual creative assets, commercial value distribution, compliance settlement, and breach recourse, in the event of any inconsistency between the terms of the Apache 2.0 and this document, the terms of this SPL v1.1 shall take absolute precedence and prevail. The copying, modification, and distribution of source code shall be governed solely by the Apache 2.0 license, and shall not be subject to the tiered fee or liquidated damages provisions of this license.
 
 Should any single provision of this license conflict with mandatory local laws and regulations at the place of use, the conflicting provision shall automatically become ineffective only within that jurisdiction, while all remaining terms, fee provisions, enforcement, and settlement rules shall survive in full and continue to carry legally binding force.
 
-The final interpretation rights of this document are reserved by Xiamen QNLOO Culture & Technology Co., Ltd.
+The interpretation of this license shall follow the principle of combining the overall purpose of the system with the literal meaning. In the event of a dispute over the interpretation of provisions, both parties shall settle through negotiation; if negotiation fails, the matter shall be handled through statutory jurisdiction channels.
+
+---
 
 ### 范式版本与复用声明 / Paradigm Versioning & Adoption Declaration
 
 QNLOO-SPL范式版本号遵循QNLOO-SPL vX.Y格式，由资产持有主体负责版本迭代与维护。后续版本发布后，本文件旧版本仍持续有效，合规接入方可在过渡期内完成版本适配。
 
+本范式面向全行业开放复用。任何企业、团队或个人，可基于本范式模板，替换资产持有主体信息，归入QNLOO-SPL范式体系。
+
+基于本范式模板修改核心条款的项目，可标注「基于 QNLOO-SPL 范式制定」；未经官方书面授权，不得修改核心架构后仍以「QNLOO-SPL」名义发布，不得擅自使用千年鹿、QNLOO 相关商标与标识。
+
+采用本范式的项目，须在显著位置标注许可范式名称，以区别于其他许可类型。
+
 QNLOO-SPL paradigm versions follow the QNLOO-SPL vX.Y format, with version iteration and maintenance managed by the asset holding entity. Upon release of a subsequent version, prior versions of this document shall remain valid, and compliant licensees may complete version adaptation within the transition period.
 
-本范式面向全行业开放复用。任何企业、团队或个人，可基于本范式模板，替换资产持有主体信息，归入QNLOO-SPL范式体系。采用本范式的项目，须在显著位置标注“本项目采用QNLOO-SPL主权公开许可范式”，以区别于其他许可类型。
+This paradigm is open for industry-wide reuse. Any enterprise, team, or individual may adopt this paradigm template by replacing the asset holding entity information and classifying their project under the QNLOO-SPL paradigm system.
 
-This paradigm is open for industry-wide reuse. Any enterprise, team, or individual may adopt this paradigm template by replacing the asset holding entity information and classifying their project under the QNLOO-SPL paradigm system. Projects adopting this paradigm must prominently label themselves as “Licensed under the QNLOO-SPL Sovereign Public License Paradigm” to distinguish them from other license types.
+Projects that modify the core provisions based on this paradigm template may be labeled as “Formulated based on the QNLOO-SPL paradigm”. Without official written authorization, no project may modify the core architecture and still release under the name “QNLOO-SPL”, nor may they use the trademarks and logos related to 千年鹿 and QNLOO without authorization.
+
+Projects adopting this paradigm must prominently label the license paradigm name to distinguish them from other license types.
 
 ---
 
 **© 2026 千年鹿 QNLOO**
 
-**2026年6月30日**
+**2026年7月4日修订版 / Version Revision Date: July 4, 2026**
+
+**2026年6月30日发布 / Original Version Date: June 30, 2026**

@@ -1,12 +1,19 @@
 # 专利授权说明书 / Patent Grant Addendum
 
-本文件是对仓库根目录 LICENSE 文件（QNLOO-SPL v1.0）和 LICENSE-APACHE 文件（Apache License 2.0）的补充。三者共同构成完整的授权体系。
+**版本 / Version**: 1.1
 
-This document supplements the LICENSE file (QNLOO-SPL v1.0) and the LICENSE-APACHE file (Apache License 2.0) in the root directory of this repository. The three together constitute a complete authorization system.
+**生效日期 / Effective Date**: 2026年6月30日
 
-若本文件约定与 QNLOO-SPL v1.0 或 Apache License 2.0 存在任何不一致或冲突之处，就专利授权、专利侵权判定及专利相关违约追责与清算事项而言，以本文件约定之条款为最高及最终适用准则。
+**版本修订日期 / Version Revision Date**: 2026年7月4日
 
-In the event of any inconsistency or conflict between the terms of this document and the QNLOO-SPL v1.0 or the Apache License 2.0, with respect to patent grants, patent infringement determinations, and patent-related breach recourse and liquidation matters, the terms of this document shall prevail as the supreme and ultimate governing provisions.
+本文件是对仓库根目录 LICENSE 文件（QNLOO-SPL v1.1）和 LICENSE-APACHE 文件（Apache License 2.0）的补充。三者共同构成完整的授权体系。
+
+This document supplements the LICENSE file (QNLOO-SPL v1.1) and the LICENSE-APACHE file (Apache License 2.0) in the root directory of this repository. The three together constitute a complete authorization system.
+
+若本文件约定与 QNLOO-SPL v1.1 或 Apache License 2.0 存在任何不一致或冲突之处，就专利授权、专利侵权判定及专利相关违约追责与清算事项而言，以本文件约定之条款为最高及最终适用准则。
+
+In the event of any inconsistency or conflict between the terms of this document and the QNLOO-SPL v1.1 or the Apache License 2.0, with respect to patent grants, patent infringement determinations, and patent-related breach recourse and liquidation matters, the terms of this document shall prevail as the supreme and ultimate governing provisions.
+
 
 ## 第一部分：官方专利声明 / Part I: Official Patent Declaration
 
@@ -57,9 +64,9 @@ The system products associated with this repository include the following patent
 
 If the relevant patents have been incorporated into industry standards, they may additionally be labeled as "Standard Essential Patents (SEPs)." If no patents have been filed yet, you may delete the table above and replace it with the following statement:
 
-> 本仓库暂无已正式提交的专利。本文件保留作为未来专利授权的模板占位。代码资产在 Apache License 2.0 下免费开放，商业运营行为受 QNLOO-SPL v1.0 约束。
+> 本仓库暂无已正式提交的专利。本文件保留作为未来专利授权的模板占位。代码资产在 Apache License 2.0 下免费开放，商业运营行为受 QNLOO-SPL v1.1 约束。
 >
-> This repository has no formally filed patents at present. This document is retained as a placeholder template for future patent grants. Code assets are freely available under the Apache License 2.0. Commercial operational activities are governed by QNLOO-SPL v1.0.
+> This repository has no formally filed patents at present. This document is retained as a placeholder template for future patent grants. Code assets are freely available under the Apache License 2.0. Commercial operational activities are governed by QNLOO-SPL v1.1.
 
 本部分可自由复用、修改，无需保留原版权标识，复用方自行替换版权信息。
 
@@ -68,16 +75,16 @@ This part may be freely reused and modified without retaining the original copyr
 
 ## 第三部分：通用条款 / General Terms
 
-以下条款为 QNLOO-SPL 范式的配套通用规则，与 QNLOO-SPL v1.0 主许可协同生效。专利计费、结算、维权规则均以主许可为准。采用方无需修改本部分内容。
+以下条款为 QNLOO-SPL 范式的配套通用规则，与 QNLOO-SPL v1.1 主许可协同生效。专利计费、结算、维权规则均以主许可为准。采用方无需修改本部分内容。
 
-The following terms are the supporting general rules of the QNLOO-SPL paradigm, which take effect in conjunction with the QNLOO-SPL v1.0 master license. Patent billing, settlement, and enforcement rules are all governed by the master license. Adopters are not required to modify this part.
+The following terms are the supporting general rules of the QNLOO-SPL paradigm, which take effect in conjunction with the QNLOO-SPL v1.1 master license. Patent billing, settlement, and enforcement rules are all governed by the master license. Adopters are not required to modify this part.
 
 
 ### 专利授权范围 / Scope of Patent Grant
 
-Apache License 2.0 项下的专利授权，仅适用于源代码本身的复制、修改与分发行为。将本文件所列专利技术方案用于商业化产品运营、规模化对外提供服务的行为，其专利授权适用本文件分层规则与 QNLOO-SPL v1.0 相关约定。
+Apache License 2.0 项下的专利授权，仅适用于源代码本身的复制、修改与分发行为。将本文件所列专利技术方案用于商业化产品运营、规模化对外提供服务的行为，其专利授权适用本文件分层规则与 QNLOO-SPL v1.1 相关约定。
 
-The patent license under Apache License 2.0 applies solely to the reproduction, modification, and distribution of the source code itself. The patent license for commercializing patented technical solutions in products or providing scaled services to the public shall be governed by the tiered rules herein and the relevant provisions of QNLOO-SPL v1.0.
+The patent license under Apache License 2.0 applies solely to the reproduction, modification, and distribution of the source code itself. The patent license for commercializing patented technical solutions in products or providing scaled services to the public shall be governed by the tiered rules herein and the relevant provisions of QNLOO-SPL v1.1.
 
 专利授权分层规则与对应项目的 QNLOO-SPL 范式主许可保持一致：个人非商用永久豁免；合规小微主体在营收阈值内免费商用；超出阈值的商业主体按主许可约定费率支付授权费。具体阈值、费率及合规要求以主许可文本为准。
 
@@ -107,4 +114,8 @@ This part constitutes the supporting general rules of the QNLOO-SPL paradigm, an
 
 The copyright of Part I of this document is owned by Xiamen QNLOO Culture & Technology Co., Ltd. Parts II and III are general templates that may be freely reused and modified, and the reuser shall replace the copyright information on its own.
 
+**版本 / Version**: 1.1
+
 **版本发布日期 / Release Date**: 2026年6月30日
+
+**版本修订日期 / Revision Date**: 2026年7月4日

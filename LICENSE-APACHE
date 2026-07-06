@@ -4,11 +4,15 @@ Version 2.0, January 2004
 http://www.apache.org/licenses/
 ```
 
+
+
 ## LICENSE-APACHE / Apache License 2.0 全文
 
-以下为 Apache License 2.0 官方英文原文及中文参考译本。本许可证适用于千年鹿体系中的计算机源代码文件。
+**适用范围 / Scope of Application**
 
-The following is the official English text of the Apache License 2.0 and a Chinese reference translation. This license applies to computer source code files within the QNLOO system.
+本许可证仅适用于千年鹿（QNLOO）体系中的计算机源代码类资产。有关本仓库内其他类型资产的许可规则，请参阅本仓库根目录下的 `LICENSE-QNLOO-SPL` 主权公开许可范式文件及 `PATENTS` 专利授权说明书。
+
+This license applies exclusively to computer source code assets within the QNLOO system. For the licensing rules applicable to other types of assets in this repository, please refer to the `LICENSE-QNLOO-SPL` Sovereign Public License Paradigm file and the `PATENTS` patent grant addendum in the root directory of this repository.
 
 若中英文本存在语义分歧或解读差异，以英文官方原文为准。
 
@@ -86,10 +90,8 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
 - (a) 您必须向本作品或衍生作品的任何其他接收者提供本许可证的副本；
 - (a) You must give any other recipients of the Work or Derivative Works a copy of this License;
-
 - (b) 您必须使任何修改过的文件带有显著的声明，说明您已更改该文件；
 - (b) You must cause any modified files to carry prominent notices stating that You changed the files;
-
 - (c) 您必须在您分发的任何衍生作品的源代码形式中，保留本作品源代码形式中的所有版权、专利、商标和归属声明，但不包括与衍生作品任何部分无关的那些声明；
 - (c) You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works;
 - (d) 如果本作品包含一个 "NOTICE" 文本文件作为其分发的一部分，那么您分发的任何衍生作品必须在该 NOTICE 文件中包含一份可读的副本，该副本包含所有归属于衍生作品任何部分的版权声明，不包括与衍生作品任何部分无关的那些声明，至少应放置在以下位置之一：作为衍生作品一部分分发的 NOTICE 文本文件中；如果随衍生作品提供，则在源代码形式或文档中；或在衍生作品生成的显示中，只要此类第三方声明通常出现的任何地方。NOTICE 文件的内容仅供参考，并不修改本许可证。您可以在您分发的衍生作品中添加您自己的归属声明，与来自本作品的 NOTICE 文本并列或作为其补充，前提是此类额外的归属声明不得被解释为修改本许可证。
