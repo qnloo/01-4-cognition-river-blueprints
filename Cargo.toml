@@ -1,4 +1,5 @@
 [workspace]
+resolver = "2"
 members = [
     "P-01-Three-Layer-Separation-Architecture",
     "P-02-Standardized-Cognitive-Protocol-Packaging",
