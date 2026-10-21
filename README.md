@@ -46,6 +46,12 @@
 > 
 > Each blueprint directory is an independent Rust project, containing a complete `Cargo.toml` and all source files ready for compilation and execution. The global `Cargo.toml` is located in the repository root.
 
+> **实体经济赛博-物理系统扩展样板间（P-07 样板间）**：  
+> 本仓库专注于纯软件与认知资产协同的六项发明专利参考实现。面向赛博-物理系统（CPS）、IoT 遥测五维因果校验及主权法定数字货币（SSDC）智能清算的工业级样板间代码，已在第二阶段技术蓝图仓库 **[02-4-sovereign-order-blueprints](https://github.com/QNLOO/02-4-sovereign-order-blueprints)** 全量交付开源。两者在工程底层保持分形同构（复用 TEE 隔离、纯整数 EWMA 积分与状态机调度模式）。
+>
+> **Cyber-Physical Systems Reference Extension (Patent P-07)**:  
+> This repository focuses on the reference implementations for the six software and cognitive patents. The production-grade blueprint for Cyber-Physical Systems (CPS), IoT telemetry 5D causal audits, and Sovereign Statutory Digital Currency (SSDC) smart contract settlement has been open-sourced in **[02-4-sovereign-order-blueprints](https://github.com/QNLOO/02-4-sovereign-order-blueprints)**. Both share identical engineering foundations (TEE enclaves, pure-integer EWMA, and state-machine scheduling).
+
 
 ### 2.2 代码模块与专利权利要求映射 / Code-to-Patent Mapping
 
@@ -88,6 +94,8 @@
 
 The entire QNLOO cognition system consists of five core modules, covering five layers: rule paradigm, methodology & tool carrier, theoretical system, technical patents, and engineering implementation. All modules share the identical underlying logic.
 
+#### 基准生态矩阵（第一阶段：认知之河）/ Foundational Ecosystem Matrix
+
 | 层级 / Layer | 生态板块 / Ecosystem Node | 官方入口 / Official URL |
 | :---: | :--- | :--- |
 | 规则范式<br/>Rule Paradigm | QNLOO-SPL 范式基准仓库<br/>QNLOO-SPL Paradigm Reference | [github.com/QNLOO/00-QNLOO-SPL-Licenses](https://github.com/QNLOO/00-QNLOO-SPL-Licenses) |
@@ -95,6 +103,16 @@ The entire QNLOO cognition system consists of five core modules, covering five l
 | 理论体系<br/>Theoretical System | 认知之河白皮书总库<br/>Cognition River Whitepaper | [github.com/QNLOO/01-2-cognition-river](https://github.com/QNLOO/01-2-cognition-river) |
 | 技术专利<br/>Technical Patents | 技术专利与合规档案库<br/>Patents & Compliance Archive | [github.com/QNLOO/01-3-cognition-river-patents](https://github.com/QNLOO/01-3-cognition-river-patents) |
 | 工程实现<br/>Engineering Implementation | 体系技术蓝图仓库<br/>System Technical Blueprints | [github.com/QNLOO/01-4-cognition-river-blueprints](https://github.com/QNLOO/01-4-cognition-river-blueprints) |
+
+#### 第二阶段协同演进网络（主权秩序核心矩阵）/ Phase II Collaborative Network
+
+| 协同节点 / Node | 仓库路径 / Repository URL | 核心职能 / Core Function |
+| :---: | :--- | :--- |
+| **序章宣告** | [02-1-civilization-ascension](https://github.com/QNLOO/02-1-civilization-ascension) | 文明升维交响曲白皮书：第二阶段总纲宏观愿景 |
+| **理论基石** | [02-2-sovereign-order](https://github.com/QNLOO/02-2-sovereign-order) | 主权秩序官方白皮书：碳硅共生时代的文明契约与物理真诚协议 |
+| **法理卡位** | [02-3-sovereign-order-patents](https://github.com/QNLOO/02-3-sovereign-order-patents) | P-07 发明专利申报全案：国家知识产权局官方交底书与权利要求在先存证 |
+| **代码样板** | [02-4-sovereign-order-blueprints](https://github.com/QNLOO/02-4-sovereign-order-blueprints) | 物理真诚通用协议专利代码参考实现样板间（Rust）与本地验证环境 |
+| **未来演进** | [03-1-cognitive-structure-engineering](https://github.com/QNLOO/03-1-cognitive-structure-engineering) | 认知结构工程白皮书与运行时：解决大模型幻觉的三层技术栈与镜像自举 |
 
 ---
 
